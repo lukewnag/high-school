@@ -1,0 +1,8 @@
+This program takes in one string argument that is 64 characters long. Each character denotes a square on the Othello board, numbered like so:
+
+1  2  3  4  5  6  7  8
+9 10 11 ...
+...
+...           62 63 64
+
+If the character at a certain location is a '.', it means the corresponding square is empty. If a character is 'o', it represents a white token in the corresponding square, and if it is 'x', it represents a black token.
