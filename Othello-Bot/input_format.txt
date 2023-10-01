@@ -6,3 +6,5 @@ This program takes in one string argument that is 64 characters long. Each chara
 ...           62 63 64
 
 If the character at a certain location is a '.', it means the corresponding square is empty. If a character is 'o', it represents a white token in the corresponding square, and if it is 'x', it represents a black token.
+This program returns nothing; instead, it logs what it believes to be its best move into a variable that is passed in first.
+To see this program in action, visit othello.tjhsst.edu and select "2023lwang" to play a game.
